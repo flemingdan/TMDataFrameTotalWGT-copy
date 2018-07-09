@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530469249035.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3B009264",
+    "lastKnownWriteTime" : 8030597042934194811,
+    "last_content_update" : 1530469249035,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1AC6F6D4",
+        "caption" : "French",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=French&cache_key=1AC6F6D4",
+        "displayedObservations" : 5,
+        "environment" : "",
+        "object" : "French",
+        "preview" : 0,
+        "totalObservations" : 5,
+        "variables" : 2
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

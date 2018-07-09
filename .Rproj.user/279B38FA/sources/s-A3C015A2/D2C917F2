@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530923798317.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D2C917F2",
+    "lastKnownWriteTime" : 1530940965,
+    "last_content_update" : 1530940965469,
+    "path" : "~/Desktop/TMDataFrameTotalWGT/STMNew.R",
+    "project_path" : "STMNew.R",
+    "properties" : {
+        "cursorPosition" : "53,0",
+        "scrollLine" : "26",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

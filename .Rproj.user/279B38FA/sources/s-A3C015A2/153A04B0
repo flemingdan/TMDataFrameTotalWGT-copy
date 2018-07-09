@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530470520409.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3837751682",
+    "id" : "153A04B0",
+    "lastKnownWriteTime" : 1531082542,
+    "last_content_update" : 1531082542301,
+    "path" : "~/Desktop/TMDataFrameTotalWGT/CleaningGTDataframes.R",
+    "project_path" : "CleaningGTDataframes.R",
+    "properties" : {
+        "cursorPosition" : "433,0",
+        "scrollLine" : "405",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

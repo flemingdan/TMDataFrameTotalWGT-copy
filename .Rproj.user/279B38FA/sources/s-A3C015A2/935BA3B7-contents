@@ -1,0 +1,4 @@
+##Ok. Qdap isn't working. But ggplot does the same thing and the 
+##tidy framework teaches us how to use it: https://github.com/juliasilge/tidytext
+
+install.packages("tidytext")

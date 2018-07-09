@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530302124875.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4DD0A513",
+    "lastKnownWriteTime" : 1530470436,
+    "last_content_update" : 1530470436591,
+    "path" : "~/Desktop/TMDataFrameTotalWGT/TotalDataFrameScript.R",
+    "project_path" : "TotalDataFrameScript.R",
+    "properties" : {
+        "cursorPosition" : "541,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
